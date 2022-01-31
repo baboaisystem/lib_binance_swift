@@ -1,1 +1,1 @@
-# lib_binance_swift
+# Library for Binance
